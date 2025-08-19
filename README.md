@@ -1,39 +1,5 @@
-<!doctype html>
-<html lang="fa" dir="rtl">
-<head>
-  <meta charset="utf-8">
-  <title>تعمیر لباسشویی، یخچال ساید، ظرفشویی و ماکروفر در شرق تهران | پاکدشت، قرچک، ورامین</title>
-  <meta name="description" content="برتر تعمیر 24: تعمیر تخصصی لباسشویی، یخچال و ساید، ظرفشویی و ماکروفر در شرق تهران، پاکدشت، قرچک، ورامین، پیشوا، شریف‌آباد و قیامدشت با اعزام فوری و ضمانت. تماس: 02191098416 و 09199259505.">
-  <link rel="canonical" href="https://bartartamir24.ir/">
-  <meta name="robots" content="index,follow">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body{margin:0;font-family:Tahoma,Arial,sans-serif;line-height:1.9;color:#222;background:#fff}
-    .wrap{max-width:980px;margin:0 auto;padding:16px}
-    .hero{background:#f8f8f8;border:1px solid #eee;border-radius:8px;padding:14px 16px;text-align:center}
-    h2,h3{margin:14px 0 10px}
-    h2{font-size:20px}
-    h3{font-size:16px}
-    p{margin:10px 0;text-align:justify}
-    ul{margin:8px 24px}
-    li{margin:6px 0}
-    .cta{background:#fff7e6;border:1px solid #ffd48a;border-radius:8px;padding:12px;text-align:center;font-weight:bold}
-    .note{font-size:12px;color:#666}
-    table{width:100%;border-collapse:collapse;margin:12px 0}
-    th,td{border:1px solid #ddd;padding:8px;text-align:right}
-    th{background:#f4f4f4}
-    .muted{color:#666}
-    .badge{display:inline-block;background:#eef5ff;border:1px solid #cfe1ff;border-radius:6px;padding:2px 8px;margin:2px 0;font-size:12px}
-    .sep{height:1px;background:#eee;margin:18px 0}
-    .center{text-align:center}
-    a{color:#0b69d2;text-decoration:none}
-    a:hover{text-decoration:underline}
-  </style>
-</head>
-<body>
-<div class="wrap">
-
-  <div class="hero">
+تعمیر لباسشویی، یخچال ساید، ظرفشویی و ماکروفر در شرق تهران | پاکدشت، قرچک، ورامین
+برتر تعمیر 24: تعمیر تخصصی لباسشویی، یخچال و ساید، ظرفشویی و ماکروفر در شرق تهران، پاکدشت، قرچک، ورامین، پیشوا، شریف‌آباد و قیامدشت با اعزام فوری و ضمانت. تماس: 02191098416 و 09199259505.
     <h2><a href="https://bartartamir24.ir/" target="_blank" rel="noopener">برتر تعمیر 24</a> | تعمیر تخصصی لباسشویی، یخچال ساید، ظرفشویی و ماکروفر</h2>
     <p>اعزام فوری تکنسین، استفاده از قطعات اصلی و <strong>ضمانت کتبی</strong> در شرق تهران و حومه (پاکدشت، قرچک، ورامین، پیشوا، شریف‌آباد و قیامدشت).</p>
     <div class="cta">تماس فوری:
